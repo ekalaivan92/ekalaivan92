@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kalaiekalai)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/ekalaivan92)
-[![GitHub-Work](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/kalai-logicsoft)
+[![GitHub for Work](https://img.shields.io/badge/GitHub%20for%20Work-Follow-green?logo=github)](https://github.com/kalai-logicsoft)
 
 ## About Me
 
@@ -18,57 +18,51 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 
 ---
 
-## Experience
-
-### Senior Software Engineer @ Logic Soft Pvt. Ltd.
-
-📅 April 2021 - Present  
-📍 Chennai, Tamil Nadu, India
-
-- Spearheaded the development of various applications including web, API, desktop, and cloud-based.
-- Managed cloud infrastructure ensuring seamless deployment and operation.
-- Implemented Agile Methodology for iterative development and customer collaboration.
-
-### Software Engineer @ Logic Soft Pvt. Ltd.
-
-📅 June 2017 - March 2021  
-📍 Chennai, Tamil Nadu, India
-
-- Spearheaded the development of various applications including web, API, desktop, and cloud-based.
-
-### Software Engineer @ Mukil’s Software
-
-📅 June 2015 - May 2017  
-📍 Chennai, Tamil Nadu, India
-
-- Developed web & desktop applications focusing on robustness and user-centric design.
-- Accelerated new developer onboarding by maintaining high coding standards.
-
----
-
 ## Technical Skills
 
 ### Languages & Frameworks
 
-- C#.NET, .NET Core
-- ASP.Net Core MVC, Razor Pages, Blazor
-- JavaScript, HTML5, CSS3
-- T-SQL, PostgreSQL, SQL Server
+![C#.NET](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.Net Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ### Tools & Environments
 
-- Visual Studio, Visual Studio Code
-- Git, GitHub, GitLab
-- AWS S3, EC2
-- Digital Ocean Droplets
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Digital Ocean Droplets](https://img.shields.io/badge/Digital_Ocean_Droplets-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ---
 
-## Achievements
+## What i can do for you
 
-- Optimized Query writing to increase execution speed by 80%.
-- Integrated various web APIs with 50% more code maintainability.
-- Followed top-notch coding standards enabling new developers onboarding 70% faster.
+- Write web, Windows applications, and web APIs with high-end coding standards.
+- Implement class libraries that can be used in a variety of .NET ecosystems.
+- Optimized query writing to increase execution speed by 80%.
+- Integrating various web APIs with 50% more code maintainability.
+- Guidance on learning programming.
+- Helping to find or solve machine-critical problems.
+- Reviewing code for functionality and code standards.
+- Contributing to open-source projects.
 
 ---
 
