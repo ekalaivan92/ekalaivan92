@@ -72,36 +72,6 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 
 ---
 
-## Projects
-
-### FairMPOS (v2)
-
-📅 July 2023 - Present  
-🚀 Full Stack Developer  
-💻 B2B Product Based Web Application  
-🔗 [Project URL](https://fairmpos.com) *(Private)*
-
-### Best Discount Coupons
-
-📅 Sep 2022 - Jun 2023  
-🚀 Full Stack Developer  
-💼 B2B Product Based Blazor Web Application
-
-### E-Commerce (V3)
-
-📅 Apr 2021 - Aug 2022  
-🚀 Full Stack Developer  
-🛒 B2C Service based Web Application  
-🔗 [Project URL](https://getmybooks.com) *(Private)*
-
-### Repcentral
-
-📅 Nov 2018 - Mar 2021  
-🚀 Full Stack Developer  
-📊 B2B Service based Web Application  
-
----
-
 ## Contact Me
 
 📧 Mail: ekalaivan35@gmail.com  
@@ -110,13 +80,6 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 💻 Website: [ekalaivan.net](https://ekalaivan.net/)  
 📝 Blogs: [blogs.ekalaivan.net](http://blogs.ekalaivan.net/)  
 🐙 GitHub-Work: [kalai-logicsoft](https://github.com/kalai-logicsoft)  
-
----
-
-## Education
-
-- Master of Science in Computer Science (M.Sc.) from Bharathidasan University, Trichy
-- Bachelor of Computer Applications (BCA) from Bharathidasan University, Trichy
 
 ---
 
