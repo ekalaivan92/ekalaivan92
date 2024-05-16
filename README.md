@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/ekalaivan92)
 [![GitHub for Work](https://img.shields.io/badge/GitHub%20for%20Work-Follow-green)](https://github.com/kalai-logicsoft)
 [![My Website](https://img.shields.io/badge/Website-Visit-green?logo=website)](https://ekalaivan.net)
-[![My Blog](https://img.shields.io/badge/Blog-Visit-green?logo=blog)](https://ekalaivan.net)
+[![My Blog](https://img.shields.io/badge/Blog-Visit-green?logo=blog)](https://blogs.ekalaivan.net)
 
 ## About Me
 
