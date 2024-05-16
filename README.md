@@ -1,8 +1,10 @@
 # Ekalaivan Chidambaram
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kalaiekalai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-green)](https://www.linkedin.com/in/kalaiekalai)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/ekalaivan92)
-[![GitHub for Work](https://img.shields.io/badge/GitHub%20for%20Work-Follow-green?logo=github)](https://github.com/kalai-logicsoft)
+[![GitHub for Work](https://img.shields.io/badge/GitHub%20for%20Work-Follow-green)](https://github.com/kalai-logicsoft)
+[![My Website](https://img.shields.io/badge/Website-Visit-green?logo=website)](https://ekalaivan.net)
+[![My Blog](https://img.shields.io/badge/Blog-Visit-green?logo=blog)](https://ekalaivan.net)
 
 ## About Me
 
@@ -50,6 +52,9 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Digital Ocean Droplets](https://img.shields.io/badge/Digital_Ocean_Droplets-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
