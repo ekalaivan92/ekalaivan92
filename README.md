@@ -80,7 +80,3 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 📝 Blogs: [blogs.ekalaivan.net](http://blogs.ekalaivan.net/)  
 🐙 GitHub-Work: [kalai-logicsoft](https://github.com/kalai-logicsoft)  
 
----
-
-## Let's Connect!
-Feel free to customize it further according to your preferences!
