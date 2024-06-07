@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Developer based in Chennai, India. With over 9 years of experience, I specialize in crafting scalable, reliable, and efficient applications using cutting-edge technologies.
+Hi there! 👋 I'm Ekalaivan Chidambaram, a experienced Dot Net Full-Stack Developer based in Chennai, India. With over 9 years of experience, I specialize in crafting scalable, reliable, and efficient applications using cutting-edge technologies.
 
 ### Summary
 
