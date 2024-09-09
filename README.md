@@ -24,20 +24,20 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a experienced Dot Net Full-Stack Devel
 
 ### Languages & Frameworks
 
-![C#.NET](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.Net Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#.NET](https://img.shields.io/badge/C%23.NET-007ec6?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-007ec6?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.Net Core](https://img.shields.io/badge/ASP.NET_Core-007ec6?style=for-the-badge&logo=.net&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-007ec6?style=for-the-badge&logo=.net&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-007ec6?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-007ec6?style=for-the-badge&logo=.net&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-e4ce19?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0080FF?style=for-the-badge&logo=css3&logoColor=white)
 
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-c0c0c0?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-brown?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
@@ -52,11 +52,11 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a experienced Dot Net Full-Stack Devel
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Digital Ocean Droplets](https://img.shields.io/badge/Digital_Ocean_Droplets-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-5C2D91?style=for-the-badge&logo=docker&logoColor=white)
+![Docker-Compose](https://img.shields.io/badge/docker--compose-5C2D91?style=for-the-badge&logo=docker&logoColor=white)
 
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
-
----
+[![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 
 ## What i can do for you
 
@@ -68,8 +68,6 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a experienced Dot Net Full-Stack Devel
 - Helping to find or solve machine-critical problems.
 - Reviewing code for functionality and code standards.
 - Contributing to open-source projects.
-
----
 
 ## Contact Me
 
